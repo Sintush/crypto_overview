@@ -1,0 +1,16 @@
+click==7.1.2
+colorama==0.4.4
+dash==1.19.0
+dash-bootstrap-components==0.12.0
+dash-core-components==1.15.0
+dash-html-components==1.1.2
+dash-renderer==1.9.0
+dash-table==4.11.2
+decorator==4.4.2
+Flask==1.1.2
+Flask-Compress==1.9.0
+jedi==0.18.0
+Jinja2==2.11.3
+pandas==1.2.3
+plotly==4.14.3
+pycoingecko==1.4.1
